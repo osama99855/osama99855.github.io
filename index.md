@@ -11,4 +11,5 @@ I am a student at BSU studying Computer Science.
 
 
 ## Contact
-- GitHub: https://github.com/osama-abdalrahman
+- GitHub: https://github.com/osama99855
+- Email: osama99855@gmail.com
